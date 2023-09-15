@@ -3,7 +3,7 @@ Bootcamp: UPENN-VIRT-DATA-PT-06-2023-U-LOLC-MTTH Module 11 Challenge
 
 ## Description
 _Note: The Starter Files were marked as Module 12.
-This has not been updated to reflect thart the current module is Module 11._
+This has not been updated to reflect that the current module is Module 11._
 
 This challenge is broken up into two parts:
 
