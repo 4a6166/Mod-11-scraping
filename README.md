@@ -45,5 +45,4 @@ The news article titles, summaries, dates, and images were scraped from [NASA's 
 Images are used according to the [JPL Image Use Policy](https://www.jpl.nasa.gov/jpl-image-use-policy), courtesy NASA/JPL-Caltech.
 
 ## License
-Probably found in top level of repo
 [MIT License](LICENSE)
